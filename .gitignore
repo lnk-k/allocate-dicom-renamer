@@ -1,0 +1,19 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+# Local medical data and generated outputs should stay off GitHub.
+data/
+case*/
+output*/
+header_check*/
+*_case*/
+*.dcm
+*.dicom
+rename_*_log.json
+
+# Local virtual environments and editor state.
+.venv/
+venv/
+.idea/
+.vscode/
