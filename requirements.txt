@@ -1,2 +1,4 @@
 pydicom
 SimpleITK
+numpy
+matplotlib
